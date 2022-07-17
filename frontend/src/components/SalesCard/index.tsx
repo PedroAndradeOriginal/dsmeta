@@ -4,7 +4,7 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import NotificationButton from '../NotificationButton';
 import { BASE_URL } from "../../utils/request";
-import './styles.css';
+import "./styles.css";
 import { Sale } from "../../models/sale";
 
 
