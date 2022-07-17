@@ -1,3 +1,3 @@
 # dsmeta
 
-vendasporperiododsmeta.netlify.app
+https://vendasporperiododsmeta.netlify.app/
